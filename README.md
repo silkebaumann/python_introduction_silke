@@ -1,5 +1,5 @@
 # Python Introduction
 ## Author
-Silke
+Silke Baumann
 ## Date
-20190926
+2019-09-26
